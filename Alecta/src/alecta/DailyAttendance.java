@@ -5,7 +5,7 @@ import java.sql.Time;
 /*
  * Keeps the daily attendance details of the employee
  */
-
+//Fara
 public class DailyAttendance {
     
     private Time arrival; //Time of arrival

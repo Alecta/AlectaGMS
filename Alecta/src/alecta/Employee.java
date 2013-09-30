@@ -1,7 +1,7 @@
 package alecta;
 
 /*
- *Employee Class
+ * Employee Class
  */
 
 public class Employee {

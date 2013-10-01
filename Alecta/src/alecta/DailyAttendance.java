@@ -5,11 +5,11 @@ import java.sql.Time;
 /*
  * Keeps the daily attendance details of the employee
  */
-//Fara
+// aneh meh git hub 
 public class DailyAttendance {
     
-    private Time arrival; //Time of arrival
-    private Time departure; //Time of departure
+    private Time arrival; // Time of arrival
+    private Time departure; // Time of departure
     private double hours; //No of hours the employee has worked for the day 
     private boolean leave; //*********If the employee has a leave or not
     private boolean present; //If the employee is present for the day

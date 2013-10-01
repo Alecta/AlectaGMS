@@ -1,6 +1,6 @@
 package alecta;
 
-/*
+/* Bhagiiiiiii huhu
  * Employee Class
  */
 
@@ -24,6 +24,5 @@ public class Employee {
 
     public double getExpenses() {
         return expenses;
-    }
-    
+    }    
 }
